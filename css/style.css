@@ -1,0 +1,10 @@
+.nav-bar-ul li:hover{
+    color:orangered;
+    transform:scale(1.2);
+}
+
+.nav-bar-ul li a:hover{
+    color:orangered;
+    border-left:10px;
+    transition:0.5s;
+}
